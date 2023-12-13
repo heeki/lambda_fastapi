@@ -1,0 +1,15 @@
+# directories
+.vscode
+build
+tmp
+
+# files
+etc/*.guard
+etc/*.json
+etc/*.sh
+iac/*_output.yaml
+build.toml
+notes.md
+
+# includes
+!etc/payload.json
